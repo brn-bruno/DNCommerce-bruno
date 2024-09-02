@@ -1,5 +1,5 @@
 DNCommerce é uma loja online que vende produtos de beleza.
-Neste projeto apenas foi solicitado apenas estrurar o back-end e modelar o banco de dados da aplicação. Para isso foi utilizado NodeJS junto com algumas bibliotecas, mas as principais foram Express.js e MySQL2. O banco de dados utilizado foi o MySQL.
+Neste projeto apenas foi solicitado apenas estruturar o back-end e modelar o banco de dados da aplicação. Para isso foi utilizado NodeJS junto com algumas bibliotecas, as principais foram Express.js e MySQL2. O banco de dados utilizado foi o MySQL.
 
 **Diagrama Lógico:**
 ![Logico_DNCommerce](https://github.com/user-attachments/assets/94e1f72a-117c-4bed-bbc3-f5ce3995086c)
