@@ -16,7 +16,7 @@ class Sale {
 
     async listById(id) {
         try {
-            const res = await db.promise().query(`select * from TBL_PEDIDO where id = ${id}`);
+            const res = await db.promise().query(`select * from TBL_VENDA where id = ${id}`);
 
             return { status: 200, response: res[0][0] };
             
